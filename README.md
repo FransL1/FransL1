@@ -53,7 +53,7 @@ Saya senang belajar teknologi baru, membangun aplikasi, dan bekerja dalam tim un
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: **sihombingfrancisko0@gmail.com**  
+- 📧 Email: **sihombingfransisco0@gmail.com**  
 - 💼 LinkedIn: **Francisko Lumbantoruan**  
 - 🌐 GitHub: **github.com/FransL1**
 
